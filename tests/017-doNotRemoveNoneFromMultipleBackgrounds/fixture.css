@@ -1,0 +1,4 @@
+div {
+    background: url(fallback.jpg);
+    background: none, url(modern.svg);
+}

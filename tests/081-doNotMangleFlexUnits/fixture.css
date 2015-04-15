@@ -1,0 +1,19 @@
+h1 {
+    flex: 1;      /* flex-grow only */
+}
+
+h2 {
+    flex: 0%;     /* flex-basis only */
+}
+
+h3 {
+    flex: 1 1;    /* flex-grow + flex-shrink */
+}
+
+h4 {
+    flex: 1 0%;   /* flex-grow + flex-basis */    
+}
+
+h5 {
+    flex: 1 1 0%; /* flex-grow + flex-shrink + flex-basis */
+}

@@ -1,0 +1,10 @@
+/* This comment explains the following rule,
+   it is only needed in development; in
+   production it can be safely removed away. */
+
+h1 {
+    margin: 1px;
+}
+
+/* This is another comment that can be removed
+   from our CSS file. */

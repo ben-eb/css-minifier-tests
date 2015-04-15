@@ -1,0 +1,5 @@
+.box {
+    -webkit-filter: blur(5px);
+    filter: url(blur.svg#blur);
+    filter: blur(5px);
+}

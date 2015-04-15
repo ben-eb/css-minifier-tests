@@ -1,0 +1,15 @@
+h1, h2, h3 {
+    position: absolute;
+}
+
+h1 {
+    z-index: 1000;
+}
+
+h2 {
+    z-index: 2000;
+}
+
+h3 {
+    z-index: 3000;
+}

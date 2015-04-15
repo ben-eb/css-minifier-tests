@@ -1,0 +1,28 @@
+{
+  "name": "css-minifier-tests",
+  "version": "1.0.0",
+  "description": "A comparison of CSS minification engines.",
+  "main": "index.js",
+  "keywords": [
+    "css",
+    "minify",
+    "optimise",
+    "optimisation"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "css-minifiers": "^1.1.0",
+    "inherits": "^2.0.1",
+    "minimist": "^1.1.0",
+    "object-assign": "^2.0.0",
+    "underscore.string": "^3.0.2"
+  },
+  "homepage": "https://github.com/ben-eb/css-minifier-tests",
+  "author": {
+    "name": "Ben Briggs",
+    "email": "beneb.info@gmail.com",
+    "url": "http://beneb.info"
+  },
+  "repository": "ben-eb/css-minifier-tests"
+}

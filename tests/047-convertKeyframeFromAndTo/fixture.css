@@ -1,0 +1,12 @@
+@keyframes fade {
+    from {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.class {
+    animation: fade 4s linear infinite;
+}

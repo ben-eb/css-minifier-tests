@@ -1,0 +1,5 @@
+div {
+    border-style: solid solid solid solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #f00 red #f00 red;
+}

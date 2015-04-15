@@ -1,0 +1,1 @@
+@charset "UTF-8";@counter-style circled-alpha{suffix:" ";symbols:Ⓐ Ⓑ Ⓒ Ⓓ Ⓔ Ⓕ Ⓖ Ⓗ Ⓘ Ⓙ Ⓚ Ⓛ Ⓜ Ⓝ Ⓞ Ⓟ Ⓠ Ⓡ Ⓢ Ⓣ Ⓤ Ⓥ Ⓦ Ⓧ Ⓨ Ⓩ;system:fixed}ul{list-style:circled-alpha}

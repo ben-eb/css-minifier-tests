@@ -1,0 +1,9 @@
+.test1 {
+    background: url(/1.png) no-repeat;
+    background-size: 85px 85px;
+}
+
+.test2 {
+    background: url(/2.png) no-repeat;
+    background-size: 85px 85px;
+}
