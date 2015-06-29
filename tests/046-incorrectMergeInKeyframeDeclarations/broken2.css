@@ -1,1 +1,1 @@
-@-webkit-keyframes rotateInUpRight{opacity:0;-webkit-transform:rotate(-90deg);0%{-webkit-transform-origin:right bottom}to{opacity:1;-webkit-transform:rotate(0);-webkit-transform-origin:right bottom}
+@-webkit-keyframes rotateInUpRight{opacity:0;-webkit-transform:rotate(-90deg);0%{-webkit-transform-origin:right bottom}to{opacity:1;-webkit-transform:rotate(0);-webkit-transform-origin:right bottom}}div{-webkit-animation-name:rotateInUpRight}

@@ -15,3 +15,7 @@
         transform: scale(1);
     }
 }
+
+div {
+    animation-name: popin;
+}
