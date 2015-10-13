@@ -1,5 +1,5 @@
 # optimise background: none (009)
 
-See the clean css issue:
+See the cssnano issue:
 
-https://github.com/jakubpawlowicz/clean-css/issues/150
+https://github.com/ben-eb/cssnano/issues/23
