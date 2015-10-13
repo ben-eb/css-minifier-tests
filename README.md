@@ -7,20 +7,20 @@
 Run the tests with:
 
 ```sh
-node test.js
+node cli
 ```
 
 Optionally, you can localise to an engine, or engines, of your choice by passing
 the `--engines` flag, with a comma separated list of engines:
 
 ```sh
-node test.js --engines cssnano,csso
+node cli --engines cssnano,csso
 ```
 
 And you can also run specific tests by passing the `--suites` flag.
 
 ```sh
-node test.js --suites 19,84
+node cli --suites 19,84
 ```
 
 ## About

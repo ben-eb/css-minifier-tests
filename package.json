@@ -1,6 +1,6 @@
 {
   "name": "css-minifier-tests",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A comparison of CSS minification engines.",
   "main": "index.js",
   "keywords": [
@@ -11,12 +11,14 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "chalk": "^0.5.1",
-    "css-minifiers": "^1.1.2",
+    "chalk": "^1.1.1",
+    "css-minifiers": "^2.0.0",
     "inherits": "^2.0.1",
-    "minimist": "^1.1.0",
-    "object-assign": "^2.0.0",
-    "underscore.string": "^3.0.2"
+    "minimist": "^1.2.0",
+    "object-assign": "^4.0.1",
+    "plur": "^2.0.0",
+    "text-table": "^0.2.0",
+    "underscore.string": "^3.2.2"
   },
   "homepage": "https://github.com/ben-eb/css-minifier-tests",
   "author": {
@@ -24,5 +26,8 @@
     "email": "beneb.info@gmail.com",
     "url": "http://beneb.info"
   },
-  "repository": "ben-eb/css-minifier-tests"
+  "repository": "ben-eb/css-minifier-tests",
+  "devDependencies": {
+    "eslint": "^1.6.0"
+  }
 }
