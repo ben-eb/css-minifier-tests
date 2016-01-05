@@ -60,11 +60,13 @@ module.exports = function (options) {
                 }));
             });
 
+            var getResults = function () {
+                return resolve(results);
+            };
+
             Promise.all(promises).then(function () {
                 onSuite(results, output);
-            }).then(function () {
-                resolve(results);
-            });
+            }).then(getResults).catch(getResults);
         }));
     });
 
