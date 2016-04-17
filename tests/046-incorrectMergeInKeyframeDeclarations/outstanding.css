@@ -1,1 +1,1 @@
-@-webkit-keyframes a{0%{-webkit-transform:rotate(-90deg);opacity:0}0%,to{-webkit-transform-origin:right bottom}to{-webkit-transform:rotate(0);opacity:1}}div{-webkit-animation-name:a}
+@-webkit-keyframes a{0%{-webkit-transform-origin:right bottom;-webkit-transform:rotate(-90deg);opacity:0}to{-webkit-transform-origin:right bottom;-webkit-transform:rotate(0);opacity:1}}div{-webkit-animation-name:a}
