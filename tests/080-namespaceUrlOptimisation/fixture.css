@@ -1,6 +1,6 @@
 @namespace islands url("http://bar.yandex.ru/ui/islands");
 
-*|.test {
+*|custom-element {
     color: red;
     margin: 0px;
 }
